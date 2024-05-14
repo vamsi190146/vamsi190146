@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Vamsi</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
