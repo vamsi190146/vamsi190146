@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **E-Commerce**
 
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vamsi190146](https://github.com/vamsi190146)
 
