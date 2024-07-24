@@ -8,13 +8,13 @@
 
 
 - 🌱 I’m currently learning **SPRINGBOOT||MERN**
-- 👨‍💻 All of my projects are available at [https://github.com/vamsi190146](https://github.com/vamsi190146)
+- 👨‍💻 All of my projects are available at [VIEW](https://github.com/vamsi190146)
 
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **tadiparthivamsi@gmail.com**
 
-- 📄 My Resume Here [https://drive.google.com/file/d/1_6rdB1-COq_ygBGSazYhSAXJtcgq-9BV/view?usp=sharing](https://drive.google.com/file/d/1_6rdB1-COq_ygBGSazYhSAXJtcgq-9BV/view?usp=sharing)
+- 📄 My Resume Here [VIEW](https://drive.google.com/file/d/1_6rdB1-COq_ygBGSazYhSAXJtcgq-9BV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
