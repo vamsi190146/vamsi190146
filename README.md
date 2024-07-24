@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Click](https://github.com/vamsi190146)
 
-- 🚀 My Portfolio: [Click](https://github.com/vamsi190146)
+- 🚀 My Portfolio: [Click](https://vamsi-portfolio-mern.netlify.app/)
 
 - 💬 Ask me about **java**
 
