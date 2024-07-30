@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tadiparthivamsi@gmail.com**
 
-- 📄 My Resume Here [Click](https://drive.google.com/file/d/1_6rdB1-COq_ygBGSazYhSAXJtcgq-9BV/view?usp=sharing)
+- 📄 My Resume Here [Click](https://drive.google.com/file/d/1kmJF3ZFvS4IF-dj-2t5d4tgJRACbr1Bi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
