@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java**
 
-- 📫 How to reach me **tadiparthivamsi@gmail.com**
+- 📫 How to reach me ** tadiparthivamsi@gmail.com **
 
 - 📄 My Resume Here [Click](https://drive.google.com/file/d/1kmJF3ZFvS4IF-dj-2t5d4tgJRACbr1Bi/view?usp=drive_link)
 
