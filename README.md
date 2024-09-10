@@ -11,7 +11,7 @@
 
 - 🚀 My Portfolio: [Click](https://vamsi-portfolio-mern.netlify.app/)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **java** 
 
 - 📫 How to reach me ** tadiparthivamsi@gmail.com **
 
